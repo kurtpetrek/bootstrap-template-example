@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+div{
+  display: block;
+  height: 500px;
+  color: purple;
+}
